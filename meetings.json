@@ -16,14 +16,5 @@
     "url" : "https://meet.google.com/wri-imvu-ftt?",
     "openAction" : "app",
     "package" :"com.google.android.apps.meetings"
-  },
-  {
-    "title": "Development",
-    "subTitle": "Sexta 21 de junho 09:00",
-    "allow": true,
-    "path" : "assets/images/meet.png",
-    "url" : "https://meet.google.com/wri-imvu-ftt?",
-    "openAction" : "app",
-    "package" :"com.google.android.apps.meetings"
   }
 ]
