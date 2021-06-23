@@ -34,7 +34,7 @@
   {
     "title": "Google Jamboard",
     "allow": true,
-    "path" : "assets/images/youtube.png",
+    "path" : "assets/images/google_jamboard.png",
     "url" : "https://edu.google.com/intl/pt-BR/products/jamboard/",
     "openAction" : "app",
     "package" :"com.google.android.apps.jam"
