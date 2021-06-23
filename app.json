@@ -3,7 +3,7 @@
     "title": "Google Meet",
     "allow": true,
     "path" : "assets/images/google_meet.png",
-    "url" : "https://meet.google.com/
+    "url" : "https://meet.google.com/",
     "openAction" : "app",
     "package" :"com.google.android.apps.meetings"
   },
@@ -24,7 +24,7 @@
     "package" :"com.google.android.apps.docs.editors.sheets"
   },
   {
-    "title": "Google Apresentações",
+    "title": "Google ApresentaÃ§Ãµes",
     "allow": true,
     "path" : "assets/images/google_presentation.png",
     "url" : "https://docs.google.com/presentation/",
@@ -110,14 +110,6 @@
     "url" : "https://quizizz.com/",
     "openAction" : "app",
     "package" :"com.quizizz_mobile"
-  },
-  {
-    "title": "Youtube",
-    "allow": true,
-    "path" : "assets/images/youtube.png",
-    "url" : "https://m.youtube.com/",
-    "openAction" : "app",
-    "package" :"com.google.android.youtube"
   },
   {
     "title": "Flippity",
