@@ -75,7 +75,7 @@
     "title": "Kahoot",
     "allow": true,
     "path" : "assets/images/kahoot.png",
-    "url" : "https://kahoot.it/",
+    "url" : "",
     "openAction" : "app",
     "package" :"no.mobitroll.kahoot.android"
   },
