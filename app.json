@@ -11,7 +11,7 @@
     "title": "Google Docs",
     "allow": true,
     "path" : "assets/images/google_docs.png",
-    "url" : "https://docs.google.com/document/",
+    "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.docs"
   },
@@ -27,7 +27,7 @@
     "title": "Apresentações",
     "allow": true,
     "path" : "assets/images/google_presentation.png",
-    "url" : "https://docs.google.com/presentation/",
+    "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.slides"
   },
