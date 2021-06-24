@@ -26,7 +26,7 @@
   {
     "title": "Apresentações",
     "allow": true,
-    "path" : "",
+    "path" : "assets/images/google_presentation.png",
     "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.slides"
