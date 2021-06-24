@@ -3,7 +3,7 @@
     "title": "Google Meet",
     "allow": true,
     "path" : "assets/images/google_meet.png",
-    "url" : "https://meet.google.com/",
+    "url" : "https://meet.google.com/pfo-tmtv-rdn",
     "openAction" : "app",
     "package" :"com.google.android.apps.meetings"
   },
@@ -19,14 +19,14 @@
     "title": "Google Planilhas",
     "allow": true,
     "path" : "assets/images/google_sheets.png",
-    "url" : "https://docs.google.com/spreadsheets",
+    "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.sheets"
   },
   {
     "title": "Apresentações",
     "allow": true,
-    "path" : "assets/images/google_presentation.png",
+    "path" : "",
     "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.slides"
