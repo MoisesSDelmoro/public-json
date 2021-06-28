@@ -4,7 +4,7 @@
     "allow": true,
     "path" : "assets/images/youtube.png",
     "url" : "https://www.youtube.com/",
-    "openAction" : "web",
+    "openAction" : "app",
     "package" :"com.google.android.youtube"
   },
   {
@@ -12,7 +12,7 @@
     "allow": true,
     "path" : "assets/images/google_classroom.png",
     "url" : "https://classroom.google.com/a/seducbertioga.com.br",
-    "openAction" : "web",
+    "openAction" : "app",
     "package" :"com.google.android.apps.meetings"
   },
   {
