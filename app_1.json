@@ -6,7 +6,7 @@
     "url" : "https://www.google.com.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"youtube.com"}
+              {"url":"google.com.br"}
             ]
   },
   {
