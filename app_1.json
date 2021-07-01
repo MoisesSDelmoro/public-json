@@ -3,7 +3,7 @@
     "title": "Youtube",
     "allow": true,
     "path" : "assets/images/youtube.png",
-    "url" : "https://www.youtube.com/",
+    "url" : "https://www.google.com.br/",
     "openAction" : "webview",
     "urlAllow": [
               {"url":"youtube.com"}
