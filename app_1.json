@@ -1,17 +1,23 @@
-[  
+[    
   {
     "title": "Youtube",
     "allow": true,
     "path" : "assets/images/youtube.png",
     "url" : "https://www.youtube.com/",
-    "openAction" : "webview"
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"youtube.com"}
+            ]
   },
   {
     "title": "Class Room",
     "allow": true,
     "path" : "assets/images/google_classroom.png",
     "url" : "https://classroom.google.com/a/seducbertioga.com.br",
-    "openAction" : "webview"
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"classroom.google.com"}
+            ]
   },
   {
     "title": "Google Meet",
