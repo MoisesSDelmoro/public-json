@@ -12,8 +12,7 @@
     "allow": true,
     "path" : "assets/images/google_classroom.png",
     "url" : "https://classroom.google.com/a/seducbertioga.com.br",
-    "openAction" : "app",
-    "package" :"com.google.android.apps.meetings"
+    "openAction" : "webview"
   },
   {
     "title": "Google Meet",
