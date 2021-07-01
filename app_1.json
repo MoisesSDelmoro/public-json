@@ -4,8 +4,7 @@
     "allow": true,
     "path" : "assets/images/youtube.png",
     "url" : "https://www.youtube.com/",
-    "openAction" : "app",
-    "package" :"com.google.android.youtube"
+    "openAction" : "webview"
   },
   {
     "title": "Class Room",
