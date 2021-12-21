@@ -161,13 +161,5 @@
     "url" : "",
     "openAction" : "app",
     "package" :"flip.company.game"
-  },
-  {
-    "title": "Bitmoji",
-    "allow": true,
-    "path" : "assets/images/bitmoji.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"com.bitstrips.imoji"
   }
 ]
