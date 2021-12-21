@@ -1,14 +1,4 @@
-[    
-  {
-    "title": "Youtube",
-    "allow": true,
-    "path" : "assets/images/youtube.png",
-    "url" : "https://www.youtube.com/",
-    "openAction" : "webview",
-    "urlAllow": [
-              {"url":"youtube.com"}
-            ]
-  },
+[  
   {
     "title": "Class Room",
     "allow": true,
@@ -41,15 +31,7 @@
               {"url":"forms.gle"},
               {"url":"google.com"}
             ]
-  },
-  {
-    "title": "Google Meet",
-    "allow": true,
-    "path" : "assets/images/google_meet.png",
-    "url" : "https://meet.google.com/pfo-tmtv-rdn",
-    "openAction" : "app",
-    "package" :"com.google.android.apps.meetings"
-  },
+  }, 
   {
     "title": "Google Docs",
     "allow": true,
@@ -57,7 +39,7 @@
     "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.docs"
-  },
+  }, 
   {
     "title": "Google Planilhas",
     "allow": true,
@@ -67,7 +49,7 @@
     "package" :"com.google.android.apps.docs.editors.sheets"
   },
   {
-    "title": "Apresentações",
+    "title": "Google Apresentações",
     "allow": true,
     "path" : "assets/images/google_presentation.png",
     "url" : "",
@@ -105,61 +87,5 @@
     "url" : "",
     "openAction" : "app",
     "package" :"com.heartfull.forms"
-  },
-  {
-    "title": "Google Keep",
-    "allow": true,
-    "path" : "assets/images/google_keep.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"com.google.android.keep"
-  },
-  {
-    "title": "Kahoot",
-    "allow": true,
-    "path" : "assets/images/kahoot.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"no.mobitroll.kahoot.android"
-  },
-  {
-    "title": "Canva",
-    "allow": true,
-    "path" : "assets/images/canva.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"com.canva.editor"
-  },
-  {
-    "title": "Wordwall",
-    "allow": true,
-    "path" : "assets/images/wordwall.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"wordwall.learn"
-  },
-  {
-    "title": "Mentimeter",
-    "allow": true,
-    "path" : "assets/images/mentimeter.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"com.mentimeter.voting"
-  },
-  {
-    "title": "Quizizz",
-    "allow": true,
-    "path" : "assets/images/quizizz.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"com.quizizz_mobile"
-  },
-  {
-    "title": "Flippity",
-    "allow": true,
-    "path" : "assets/images/flippity.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"flip.company.game"
   }
 ]
