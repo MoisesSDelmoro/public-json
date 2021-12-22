@@ -49,7 +49,7 @@
     "package" :"com.google.android.apps.docs.editors.sheets"
   },
   {
-    "title": "Google Apresentações",
+    "title": "Apresentações",
     "allow": true,
     "path" : "assets/images/google_presentation.png",
     "url" : "",
