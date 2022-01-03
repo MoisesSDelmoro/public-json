@@ -3,7 +3,7 @@
     "title": "Prefeitura do Município de Jundiaí",
     "allow": true,
     "path" : "assets/images/brasao_jundiai.png",
-    "url" : "https://educacao.jundiai.sp.gov.br/",
+    "url" : "https://jundiai.sp.gov.br/",
     "openAction" : "webview",
     "urlAllow": [
               {"url":"educacao.jundiai.sp.gov.br"}
@@ -13,7 +13,7 @@
     "title": "Escolas municipais do Município de Jundiaí",
     "allow": true,
     "path" : "assets/images/brasao_jundiai.png",
-    "url" : "https://jundiai.sp.gov.br/",
+    "url" : "https://educacao.jundiai.sp.gov.br/",
     "openAction" : "webview",
     "urlAllow": [
               {"url":"jundiai.sp.gov.br"}
