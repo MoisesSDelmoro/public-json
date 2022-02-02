@@ -1,22 +1,22 @@
 [
   {
-    "title": "Prefeitura do Município de Jundiaí",
+    "title": "Secretaria escolar regional",
     "allow": true,
-    "path" : "assets/images/brasao_jundiai.png",
-    "url" : "https://jundiai.sp.gov.br/",
+    "path" : "assets/images/icon.png",
+    "url" : "https://sed.educacao.sp.gov.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"educacao.jundiai.sp.gov.br"}
+              {"url":"sed.educacao.sp.gov.br"}
             ]
   },
   {
-    "title": "Escolas municipais do Município de Jundiaí",
+    "title": "Ministério da educação",
     "allow": true,
-    "path" : "assets/images/brasao_jundiai.png",
-    "url" : "https://educacao.jundiai.sp.gov.br/",
+    "path" : "assets/images/icon.png",
+    "url" : "http://portal.mec.gov.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"jundiai.sp.gov.br"}
+              {"url":"portal.mec.gov.br"}
             ]
   }
 ]
