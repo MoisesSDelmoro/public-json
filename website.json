@@ -1,6 +1,6 @@
 [
   {
-    "title": "Secretaria escolar regional",
+    "title": "Secretaria Escolar Digital",
     "allow": true,
     "path" : "assets/images/icon.png",
     "url" : "https://sed.educacao.sp.gov.br/",
@@ -10,7 +10,7 @@
             ]
   },
   {
-    "title": "Ministério da educação",
+    "title": "Ministério da Educação",
     "allow": true,
     "path" : "assets/images/icon.png",
     "url" : "http://portal.mec.gov.br/",
