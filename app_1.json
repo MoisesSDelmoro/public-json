@@ -33,6 +33,14 @@
             ]
   }, 
   {
+    "title": "Google Apresentações",
+    "allow": true,
+    "path" : "assets/images/google_presentation.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.docs.editors.slides"
+  },
+  {
     "title": "Google Docs",
     "allow": true,
     "path" : "assets/images/google_docs.png",
@@ -47,14 +55,6 @@
     "url" : "",
     "openAction" : "app",
     "package" :"com.google.android.apps.docs.editors.sheets"
-  },
-  {
-    "title": "Google Apresentações",
-    "allow": true,
-    "path" : "assets/images/google_presentation.png",
-    "url" : "",
-    "openAction" : "app",
-    "package" :"com.google.android.apps.docs.editors.slides"
   },
   {
     "title": "Google Jamboard",
@@ -82,6 +82,134 @@
   },
   {
     "title": "Google Forms",
+    "allow": true,
+    "path" : "assets/images/google_forms.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.heartfull.forms"
+  },
+  {
+    "title": "Google Eart",
+    "allow": true,
+    "path" : "assets/images/google_earth.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.earth"
+  },
+  {
+    "title": "Google Street View",
+    "allow": true,
+    "path" : "assets/images/google_street_view.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.street"
+  },
+  {
+    "title": "Google Chat",
+    "allow": true,
+    "path" : "assets/images/google_chat.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.dynamite"
+  },
+  {
+    "title": "Google Meet",
+    "allow": true,
+    "path" : "assets/images/google_meet.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.meetings"
+  },
+  {
+    "title": "Padlet",
+    "allow": true,
+    "path" : "assets/images/padlet.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.wallwisher.Padlet"
+  },
+  {
+    "title": "Canva",
+    "allow": true,
+    "path" : "assets/images/canva.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.canva.editor"
+  },
+  {
+    "title": "Kahoot",
+    "allow": true,
+    "path" : "assets/images/kahoot.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"no.mobitroll.kahoot.android"
+  },
+  {
+    "title": "Khan Academy",
+    "allow": true,
+    "path" : "assets/images/khan_academy.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"org.khanacademy.android"
+  },
+  {
+    "title": "ScratchJr",
+    "allow": true,
+    "path" : "assets/images/scratch_jr.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"org.scratchjr.androids"
+  },
+  {
+    "title": "Seek",
+    "allow": true,
+    "path" : "assets/images/seek.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"org.inaturalist.seek"
+  },
+  {
+    "title": "Inaturalist",
+    "allow": true,
+    "path" : "assets/images/seek.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"org.inaturalist.android"
+  },
+  {
+    "title": "Merlin Bird ID",
+    "allow": true,
+    "path" : "assets/images/merlin_bird_id.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.labs.merlinbirdid.app"
+  },
+  {
+    "title": "Geocaching",
+    "allow": true,
+    "path" : "assets/images/geocaching.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.groundspeak.geocaching.intro"
+  },
+  {
+    "title": "Globe observer",
+    "allow": true,
+    "path" : "assets/images/globe_observer.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"gov.nasa.globe.observer"
+  },
+  {
+    "title": "Star Walk",
+    "allow": true,
+    "path" : "assets/images/star_walk.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.vitotechnology.StarWalk"
+  },
+  {
+    "title": "Natu Contos NF",
     "allow": true,
     "path" : "assets/images/google_forms.png",
     "url" : "",
