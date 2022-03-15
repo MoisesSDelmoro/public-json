@@ -1,22 +1,322 @@
 [
   {
-    "title": "Secretaria Escolar Digital",
+    "title": "Prefeitura de Jundiaí",
     "allow": true,
     "path" : "assets/images/icon.png",
-    "url" : "https://sed.educacao.sp.gov.br/",
+    "url" : "https://jundiai.sp.gov.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sed.educacao.sp.gov.br"}
+              {"url":"jundiai.sp.gov.br"}
             ]
   },
   {
-    "title": "Ministério da Educação",
+    "title": "Currículo Jundiaiense",
     "allow": true,
     "path" : "assets/images/icon.png",
-    "url" : "http://portal.mec.gov.br/",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/curriculojundiaiense/p%C3%A1gina-inicial?authuser=0",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"portal.mec.gov.br"}
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "Portal da Educação",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://educacao.jundiai.sp.gov.br/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"educacao.jundiai.sp.gov.br"}
+            ]
+  },
+  {
+    "title": "Kahoot",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://kahoot.it/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"kahoot.it"}
+            ]
+  },
+  {
+    "title": "Wordwall",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://wordwall.net/pt",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"wordwall.net"}
+            ]
+  },
+  {
+    "title": "Book Creator",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://bookcreator.com/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"bookcreator.com"}
+            ]
+  },
+  {
+    "title": "Thing Link",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.thinglink.com/pt/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"thinglink.com"}
+            ]
+  },
+  {
+    "title": "Pad Let",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://pt-br.padlet.com/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"pt-br.padlet.com"}
+            ]
+  },
+  {
+    "title": "Canva",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.canva.com",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.canva.com"}
+            ]
+  },
+  {
+    "title": "Flippity",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.flippity.net/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.flippity.net"}
+            ]
+  },
+  {
+    "title": "Classroomscreen",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://classroomscreen.com/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"classroomscreen.com"}
+            ]
+  },
+  {
+    "title": "Khan Academy",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://pt.khanacademy.org/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"pt.khanacademy.org"}
+            ]
+  },
+  {
+    "title": "Scratch",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://scratch.mit.edu/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"scratch.mit.edu"}
+            ]
+  },
+  {
+    "title": "Tinkercad",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.tinkercad.com/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.tinkercad.com"}
+            ]
+  },
+  {
+    "title": "Menti",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.menti.com/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.menti.com"}
+            ]
+  },
+  {
+    "title": "Mentimeter",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.mentimeter.com/pt-BR",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.mentimeter.com"}
+            ]
+  },
+  {
+    "title": "Mind Lab",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://app.mindzup.com.br/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"app.mindzup.com.br"}
+            ]
+  },
+  {
+    "title": "EMEB ANTONIO ADELINO MARQUES DA SILVA BRANDÃO",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/adelinobrandao/p%C3%A1gina-inicial",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB PROF. GERALDO PINTO DUARTE PAES",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebgeraldopaes/p%C3%A1gina-inicial",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB APARECIDA MERINO ELIAS",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebmerino",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB PROFª JANET FERREIRA PRADO",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/d/1ys1oGO3Drt2VWmu8KrkctjMsT4z3qasF/p/1_7pzvLT4NXss-bkITgtgYyvrdR2S5exv/edit",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB WILMA NALIN FAVARO",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebwilmanalinfavaro2021/p%C3%A1gina-inicial",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB LUZIA FRANCISCA DE SOUZA MARTINS",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emeb-luzia-francisca/in%C3%ADcio",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB PROFA MARIA APARECIDA DE SOUZA ALMEIDA RAMOS",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/peixinho",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB PROFA ANNA PONTES CHAGAS",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebannaponteschagas",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB PROFA FLORISA VOLPE",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emeb-florisa-volpe/p%C3%A1gina-inicial",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB PROFA CLOTILDE MAZZALI BOLLINI",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebclotildemazzalibollini",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB BENEDITA ALZIRA DE MORAES CAMUNHAS",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/caminhoscamunhas/p%C3%A1gina-inicial",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB NAMAN TAYAR",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebnaman",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"sites.google.com"}
+            ]
+  },
+  {
+    "title": "EMEB DEODATO JANSKI",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.facebook.com/emebdjanski",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.facebook.com"}
+            ]
+  },
+  {
+    "title": "EMEB HILDA MARIA ALVES PASCHOALOTTO",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://www.emebhilda.com.br/",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"www.emebhilda.com.br"}
+            ]
+  },
+  {
+    "title": "EMEB. PROFªBEATRIZ BLATTNER PUPO",
+    "allow": true,
+    "path" : "assets/images/icon.png",
+    "url" : "https://jundiaieducacao.wixsite.com/emeb-beatriz",
+    "openAction" : "webview",
+    "urlAllow": [
+              {"url":"jundiaieducacao.wixsite.com"}
             ]
   }
 ]
