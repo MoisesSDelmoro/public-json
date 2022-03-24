@@ -13,7 +13,7 @@
     "title": "Currículo Jundiaiense",
     "allow": true,
     "path" : "assets/images/icon.png",
-    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/curriculojundiaiense/p%C3%A1gina-inicial?authuser=0",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/curriculojundiaiense/p%C3%A1gina-inicial",
     "openAction" : "webview",
     "urlAllow": [
               {"url":"sites.google.com/educacao.jundiai.sp.gov.br/curriculojundiaiense"}
@@ -176,7 +176,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/adelinobrandao/p%C3%A1gina-inicial",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/adelinobrandao"}
             ]
   },
   {
@@ -186,7 +186,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebgeraldopaes/p%C3%A1gina-inicial",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebgeraldopaes"}
             ]
   },
   {
@@ -196,17 +196,17 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebmerino",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebmerino"}
             ]
   },
   {
     "title": "EMEB PROFª JANET FERREIRA PRADO",
     "allow": true,
     "path" : "assets/images/icon.png",
-    "url" : "https://sites.google.com/d/1ys1oGO3Drt2VWmu8KrkctjMsT4z3qasF/p/1_7pzvLT4NXss-bkITgtgYyvrdR2S5exv/edit",
+    "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebjanetfprado/inicio",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebjanetfprado"}
             ]
   },
   {
@@ -216,7 +216,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebwilmanalinfavaro2021/p%C3%A1gina-inicial",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebwilmanalinfavaro2021"}
             ]
   },
   {
@@ -226,7 +226,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emeb-luzia-francisca/in%C3%ADcio",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emeb-luzia-francisca"}
             ]
   },
   {
@@ -236,7 +236,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/peixinho",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/peixinho"}
             ]
   },
   {
@@ -246,7 +246,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebannaponteschagas",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebannaponteschagas"}
             ]
   },
   {
@@ -256,7 +256,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emeb-florisa-volpe/p%C3%A1gina-inicial",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emeb-florisa-volpe"}
             ]
   },
   {
@@ -266,7 +266,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebclotildemazzalibollini",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebclotildemazzalibollini"}
             ]
   },
   {
@@ -276,7 +276,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/caminhoscamunhas/p%C3%A1gina-inicial",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/caminhoscamunhas"}
             ]
   },
   {
