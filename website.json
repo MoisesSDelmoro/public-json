@@ -16,7 +16,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/curriculojundiaiense/p%C3%A1gina-inicial?authuser=0",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/curriculojundiaiense"}
             ]
   },
   {
@@ -286,7 +286,7 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebnaman",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebnaman"}
             ]
   },
   {
@@ -296,7 +296,7 @@
     "url" : "https://www.facebook.com/emebdjanski",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"www.facebook.com"}
+              {"url":"facebook.com/emebdjanski"}
             ]
   },
   {
@@ -306,7 +306,7 @@
     "url" : "https://www.emebhilda.com.br/",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"www.emebhilda.com.br"}
+              {"url":"emebhilda.com.br"}
             ]
   },
   {
