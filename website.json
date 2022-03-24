@@ -286,7 +286,8 @@
     "url" : "https://sites.google.com/educacao.jundiai.sp.gov.br/emebnaman",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebnaman"}
+              {"url":"sites.google.com/educacao.jundiai.sp.gov.br/emebnaman"},
+              {"url":"google.com"}
             ]
   },
   {
