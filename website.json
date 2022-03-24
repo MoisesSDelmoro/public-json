@@ -316,7 +316,8 @@
     "url" : "https://jundiaieducacao.wixsite.com/emeb-beatriz",
     "openAction" : "webview",
     "urlAllow": [
-              {"url":"jundiaieducacao.wixsite.com"}
+              {"url":"jundiaieducacao.wixsite.com"},
+              {"url":"anyfile"}
             ]
   }
 ]
