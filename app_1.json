@@ -1,38 +1,5 @@
 [  
   {
-    "title": "Class Room",
-    "allow": true,
-    "path" : "assets/images/google_classroom.png",
-    "url" : "https://classroom.google.com/a/aluno.educacao.jundiai.sp.gov.br",
-    "openAction" : "webview",
-    "urlAllow": [
-              {"url":"classroom.google.com"},
-              {"url":"accounts.google.com"},
-              {"url":"googledrive.com"},
-              {"url":"drive.google.com"},
-              {"url":"docs.google.com"},
-              {"url":"c.docs.google.com"},
-              {"url":"sheets.google.com"},
-              {"url":"slides.google.com"},
-              {"url":"takeout.google.com"},
-              {"url":"gg.google.com"},
-              {"url":"script.google.com"},
-              {"url":"ssl.google-analytics.com"},
-              {"url":"video.google.com"},
-              {"url":"s.ytimg.com"},
-              {"url":"apis.google.com"},
-              {"url":"googleapis.com"},
-              {"url":"googleusercontent.com"},
-              {"url":"gstatic.com"},
-              {"url":"gvt1.com"},
-              {"url":"edu.google.com"},
-              {"url":"accounts.youtube.com"},
-              {"url":"myaccount.google.com"},
-              {"url":"forms.gle"},
-              {"url":"google.com"}
-            ]
-  }, 
-  {
     "title": "Google Classroom",
     "allow": true,
     "path" : "assets/images/google_classroom.png",
