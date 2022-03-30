@@ -33,6 +33,14 @@
             ]
   }, 
   {
+    "title": "Google Classroom",
+    "allow": true,
+    "path" : "assets/images/google_classroom.png",
+    "url" : "",
+    "openAction" : "app",
+    "package" :"com.google.android.apps.classroom"
+  },
+  {
     "title": "Google Apresentações",
     "allow": true,
     "path" : "assets/images/google_presentation.png",
