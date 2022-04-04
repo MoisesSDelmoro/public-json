@@ -1,15 +1,5 @@
 [
   {
-    "title": "YOUTUBE TESTE",
-    "allow": true,
-    "path" : "assets/images/icon.png",
-    "url" : "https://www.youtube.com/",
-    "openAction" : "webview",
-    "urlAllow": [
-              {"url":"youtube.com"}
-            ]
-  },
-  {
     "title": "Prefeitura de Jundiaí",
     "allow": true,
     "path" : "assets/images/icon.png",
